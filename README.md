@@ -18,5 +18,6 @@ I am currently in the 3rd year of High School and I am finishing the technical c
     </a>
 </a>
 <h2>My social networks</h2>
+ <a href="(https://www.linkedin.com/in/gabriel-rodrigues-9063b0378/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div>
 </div> 
